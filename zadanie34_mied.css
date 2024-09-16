@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>zadanie 34 Międlar</title>
+        <meta charset="utf-8" />
+        <style type="text/css">
+            h1 {
+                width: 400pt;
+                height: 3cm;
+                margin: auto;
+                border-top-color: silver;
+                border-bottom-color: red;
+                border-left-color: yellow;
+                border-right-color: teal;
+                background: rgb(247, 238, 111);
+            }
+            h2 {
+                width: 400pt;
+                height: 3.1cm;
+                margin-left: 1%;
+                border: 5px solid black;
+                background: rgb(255,144,0);
+            }
+            h3 {
+                width: 200pt;
+                height: 2.2cm;
+                margin-left: 75%;
+                border: 5px ridge gray;
+                background: rgb(255,112,0);
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Międlar</h1>
+        <h2>Adam</h2>
+        <h3>3F g2 16.09.2024</h3>
+    </body>
+</html>
+<!-- Adam Międlar -->
